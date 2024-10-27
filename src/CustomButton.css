@@ -1,9 +1,11 @@
 .custom-button {
+    all: unset;
     padding: 10px 20px;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+
   }
   
   .custom-button:hover {
